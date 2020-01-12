@@ -7,7 +7,8 @@ package newproject;
 public class App 
 {
     public static void main( String[] args )
-    {
+    {   // nice works
+        
         System.out.println( "Hello World!" );
     }
 }
